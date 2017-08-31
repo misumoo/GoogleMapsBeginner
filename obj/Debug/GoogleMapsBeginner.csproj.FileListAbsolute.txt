@@ -1,0 +1,10 @@
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\bin\Debug\GoogleMapsBeginner.exe.config
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\bin\Debug\GoogleMapsBeginner.exe
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\bin\Debug\GoogleMapsBeginner.pdb
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\obj\Debug\GoogleMapsBeginner.csprojResolveAssemblyReference.cache
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\obj\Debug\GoogleMapsBeginner.Form1.resources
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\obj\Debug\GoogleMapsBeginner.Properties.Resources.resources
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\obj\Debug\GoogleMapsBeginner.csproj.GenerateResource.Cache
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\obj\Debug\GoogleMapsBeginner.csproj.CoreCompileInputs.cache
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\obj\Debug\GoogleMapsBeginner.exe
+C:\Users\Misumoo\Desktop\C# Beginner Programs\GoogleMapsBeginner\GoogleMapsBeginner\obj\Debug\GoogleMapsBeginner.pdb
